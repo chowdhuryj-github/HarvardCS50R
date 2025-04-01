@@ -1,0 +1,2 @@
+setwd("C:/Github/HarvardCS50R/wk_01")
+https://www.youtube.com/playlist?list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f
